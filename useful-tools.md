@@ -1,3 +1,8 @@
+---
+layout: post
+title: A list of commands and useful tools that I would like to bookmark/share
+---
+
 ## Linux commands
 - `lspci -vvv`:
 	Think of it as if you say **list pci** which shows the different devices connected to the motherboard
@@ -6,14 +11,18 @@
 	Similar idea as `lspci` but for the CPU.
 
 ## Useful Python packages that I use/have used
+**Data Viz**:
 - `seaborn`
 - `matplotlib`
 
-- `tqdm`
+**Data Manipulation**:
 - `pandas`
 - `numpy`
+- `json`
 
+**Machine Learning**:
 - `pytorch`
 - `sklearn`
 
-- `json`
+**Logging**:
+- `tqdm`
