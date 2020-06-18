@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A list of commands and useful tools that I would like to bookmark/share
+permalink: /useful-tools/
 ---
 
 ## Linux commands
