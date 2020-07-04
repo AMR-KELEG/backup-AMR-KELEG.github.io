@@ -13,6 +13,12 @@ title: A non-exhaustive list of linguistic Arabic resources online
 | [ASTD](https://github.com/mahmoudnabil/ASTD)| Arabic Sentiment Tweets Dataset contains over 10k Arabic sentiment tweets classified into four classes subjective positive, subjective negative, subjective mixed, and objective | NA | 2015 |
 | [LABR](https://github.com/mohamedadaly/LABR)| Large Scale Arabic Book Reviews Dataset contains over 63,000 book reviews in Arabic collected from goodreads.| NA | 2013 |
 
+
+| Tool name | Description | Programming language | Languages | Published|
+|-----|-----|-----|
+| [stanza](https://stanfordnlp.github.io/stanza/) | TBC (A tool for NER and POS? for multiple languages including Arabic) | python (pytorch) | MSA & EGA | 2020 (Christopher D. Manning.) |
+
+
 ### Others
 - [SA paper including names of some datasets](https://www.aclweb.org/anthology/C16-1228.pdf)
 - [Speech Recognition](https://groups.csail.mit.edu/sls/downloads/adi17/) 
