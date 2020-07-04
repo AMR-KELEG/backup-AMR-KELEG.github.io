@@ -25,6 +25,7 @@ title: A non-exhaustive list of linguistic Arabic resources online
 - [AQMAR](https://github.com/nschneid/arabic-tagger) An arabic sequence tagger!
 
 - Stanza's dependencies:
+
 | Processor | Package |
 ------------|----------
 | tokenize  | padt    |
