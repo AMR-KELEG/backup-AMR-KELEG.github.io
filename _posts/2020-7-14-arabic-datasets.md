@@ -2,7 +2,9 @@
 layout: post
 title: A non-exhaustive list of linguistic Arabic resources online
 ---
+
 ## Datasets
+
 | Dataset | Description | Languages | Published|
 |-----|-----|-----|
 | [LinCE](https://ritual.uh.edu/lince/home) | A NER dataset (stats?) and Language Identification corpus (each token in the sentence is annotated with the language MSA or EGA)| MSA & EGA | 2020 |
@@ -14,11 +16,13 @@ title: A non-exhaustive list of linguistic Arabic resources online
 | [LABR](https://github.com/mohamedadaly/LABR)| Large Scale Arabic Book Reviews Dataset contains over 63,000 book reviews in Arabic collected from goodreads.| NA | 2013 |
 
 ## Tools
+
 | Tool name | Description | Programming language | Languages | Published|
 |-----|-----|-----|
 | [stanza](https://stanfordnlp.github.io/stanza/) | TBC (A tool for NER and POS? for multiple languages including Arabic), uses AQMAR and PADT | python (pytorch) | MSA & EGA | 2020 (Christopher D. Manning.) |
- - [PADT](http://ufal.mff.cuni.cz/padt/PADT_1.0/docs/index.html) An Arabic Treebank??
- - [AQMAR](https://github.com/nschneid/arabic-tagger) An arabic sequence tagger!
+
+- [PADT](http://ufal.mff.cuni.cz/padt/PADT_1.0/docs/index.html) An Arabic Treebank??
+- [AQMAR](https://github.com/nschneid/arabic-tagger) An arabic sequence tagger!
 
 ### Others
 - [SA paper including names of some datasets](https://www.aclweb.org/anthology/C16-1228.pdf)
