@@ -2,7 +2,7 @@
 layout: post
 title: A non-exhaustive list of linguistic Arabic resources online
 ---
-
+## Datasets
 | Dataset | Description | Languages | Published|
 |-----|-----|-----|
 | [LinCE](https://ritual.uh.edu/lince/home) | A NER dataset (stats?) and Language Identification corpus (each token in the sentence is annotated with the language MSA or EGA)| MSA & EGA | 2020 |
@@ -13,11 +13,11 @@ title: A non-exhaustive list of linguistic Arabic resources online
 | [ASTD](https://github.com/mahmoudnabil/ASTD)| Arabic Sentiment Tweets Dataset contains over 10k Arabic sentiment tweets classified into four classes subjective positive, subjective negative, subjective mixed, and objective | NA | 2015 |
 | [LABR](https://github.com/mohamedadaly/LABR)| Large Scale Arabic Book Reviews Dataset contains over 63,000 book reviews in Arabic collected from goodreads.| NA | 2013 |
 
-
+## Tools
 | Tool name | Description | Programming language | Languages | Published|
 |-----|-----|-----|
 | [stanza](https://stanfordnlp.github.io/stanza/) | TBC (A tool for NER and POS? for multiple languages including Arabic) | python (pytorch) | MSA & EGA | 2020 (Christopher D. Manning.) |
-
+ - [PADT](http://ufal.mff.cuni.cz/padt/PADT_1.0/docs/index.html) An Arabic Treebank??
 
 ### Others
 - [SA paper including names of some datasets](https://www.aclweb.org/anthology/C16-1228.pdf)
