@@ -24,6 +24,16 @@ title: A non-exhaustive list of linguistic Arabic resources online
 - [PADT](http://ufal.mff.cuni.cz/padt/PADT_1.0/docs/index.html) An Arabic Treebank??
 - [AQMAR](https://github.com/nschneid/arabic-tagger) An arabic sequence tagger!
 
+- Stanza's dependencies:
+| Processor | Package |
+------------|----------
+| tokenize  | padt    |
+| mwt       | padt    |
+| pos       | padt    |
+| lemma     | padt    |
+| depparse  | padt    |
+| ner       | aqmar   |
+
 ### Others
 - [SA paper including names of some datasets](https://www.aclweb.org/anthology/C16-1228.pdf)
 - [Speech Recognition](https://groups.csail.mit.edu/sls/downloads/adi17/) 
