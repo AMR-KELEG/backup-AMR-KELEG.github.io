@@ -21,8 +21,8 @@ title: A non-exhaustive list of linguistic Arabic resources online
 |-----|-----|-----|
 | [stanza](https://stanfordnlp.github.io/stanza/) | TBC (A tool for NER and POS? for multiple languages including Arabic), uses AQMAR and PADT | python (pytorch) | MSA & EGA | 2020 (Christopher D. Manning.) |
 
-- [PADT](http://ufal.mff.cuni.cz/padt/PADT_1.0/docs/index.html) An Arabic Treebank??
-and [PADT](https://github.com/UniversalDependencies/UD_Arabic-PADT).
+- [PADT](http://ufal.mff.cuni.cz/padt/PADT_1.0/docs/index.html) An Arabic Treebank released in 2004!
+and [PADT](https://github.com/UniversalDependencies/UD_Arabic-PADT)
 
 - [AQMAR](https://github.com/nschneid/arabic-tagger) An arabic sequence tagger!
 
