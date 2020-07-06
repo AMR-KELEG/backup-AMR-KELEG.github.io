@@ -42,3 +42,4 @@ title: A non-exhaustive list of linguistic Arabic resources online
 - [Q&A from ask.fm](http://xminers.club/2017/07/22/arabic-qa-dataset/)
 - [Hate speech](http://hatespeechdata.com/)
 - [NER](https://fsalotaibi.kau.edu.sa/Pages-Arabic-NE-Corpora.aspx)
+- [Arabizi - Taha](https://project-rbz.kmi.open.ac.uk/)
