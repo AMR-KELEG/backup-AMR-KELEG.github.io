@@ -26,6 +26,8 @@ and [PADT](https://github.com/UniversalDependencies/UD_Arabic-PADT)
 
 - [AQMAR](https://github.com/nschneid/arabic-tagger) An arabic sequence tagger!
 
+- [Multidialect BERT](https://huggingface.co/bashar-talafha/multi-dialect-bert-base-arabic)
+
 - Stanza's dependencies:
 
 | Processor | Package |
@@ -45,3 +47,7 @@ and [PADT](https://github.com/UniversalDependencies/UD_Arabic-PADT)
 - [Hate speech](http://hatespeechdata.com/)
 - [NER](https://fsalotaibi.kau.edu.sa/Pages-Arabic-NE-Corpora.aspx)
 - [Arabizi - Taha](https://project-rbz.kmi.open.ac.uk/)
+
+### Arabic related workshops
+- [WANLP - part of coling](https://sites.google.com/view/wanlp-2020)
+- [OSACT - part of LREC](http://edinburghnlp.inf.ed.ac.uk/workshops/OSACT4/)
