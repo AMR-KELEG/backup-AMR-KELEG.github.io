@@ -47,6 +47,7 @@ and [PADT](https://github.com/UniversalDependencies/UD_Arabic-PADT)
 - [Hate speech](http://hatespeechdata.com/)
 - [NER](https://fsalotaibi.kau.edu.sa/Pages-Arabic-NE-Corpora.aspx)
 - [Arabizi - Taha](https://project-rbz.kmi.open.ac.uk/)
+- [Other gazeteers](https://github.com/linuxscout/arabicnlptoolslist#gazetteers)
 
 ### Arabic related workshops
 - [WANLP - part of coling](https://sites.google.com/view/wanlp-2020)
