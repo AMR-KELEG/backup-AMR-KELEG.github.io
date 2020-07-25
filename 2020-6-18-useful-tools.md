@@ -27,3 +27,6 @@ permalink: /useful-tools/
 
 **Logging**:
 - `tqdm`
+
+### Packages that I want to explore more
+- `ftfy` for fixing gibberish unicode text `¸‡'âŒ£`
