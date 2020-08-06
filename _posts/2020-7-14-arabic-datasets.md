@@ -48,6 +48,7 @@ and [PADT](https://github.com/UniversalDependencies/UD_Arabic-PADT)
 - [NER](https://fsalotaibi.kau.edu.sa/Pages-Arabic-NE-Corpora.aspx)
 - [Arabizi - Taha](https://project-rbz.kmi.open.ac.uk/)
 - [Other gazeteers](https://github.com/linuxscout/arabicnlptoolslist#gazetteers)
+- [ARZ and dialectal resources (mainly for segmentation and POS)](http://alt.qcri.org/resources/da_resources/)
 
 ### Arabic related workshops
 - [WANLP - part of coling](https://sites.google.com/view/wanlp-2020)
