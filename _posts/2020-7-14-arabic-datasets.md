@@ -41,6 +41,7 @@ and [PADT](https://github.com/UniversalDependencies/UD_Arabic-PADT)
 
 - Farasa supports MSA only
 - Madamira supports MSA and ARZ
+- CODA has a set of guidelines for annotation: https://sites.google.com/a/nyu.edu/coda/home
 
 ### Others
 - [SA paper including names of some datasets](https://www.aclweb.org/anthology/C16-1228.pdf)
