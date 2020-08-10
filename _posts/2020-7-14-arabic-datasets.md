@@ -39,6 +39,9 @@ and [PADT](https://github.com/UniversalDependencies/UD_Arabic-PADT)
 | depparse  | padt    |
 | ner       | aqmar   |
 
+- Farasa supports MSA only
+- Madamira supports MSA and ARZ
+
 ### Others
 - [SA paper including names of some datasets](https://www.aclweb.org/anthology/C16-1228.pdf)
 - [Speech Recognition](https://groups.csail.mit.edu/sls/downloads/adi17/) 
