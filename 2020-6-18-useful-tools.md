@@ -15,6 +15,7 @@ permalink: /useful-tools/
 **Data Viz**:
 - `seaborn`
 - `matplotlib`
+    - Use this palette for color-blindness and black-white papers: https://seaborn.pydata.org/generated/seaborn.cubehelix_palette.html
 
 **Data Manipulation**:
 - `pandas`
