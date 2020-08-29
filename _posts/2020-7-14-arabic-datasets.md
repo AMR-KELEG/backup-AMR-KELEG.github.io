@@ -54,6 +54,8 @@ and [PADT](https://github.com/UniversalDependencies/UD_Arabic-PADT)
 - [Other gazeteers](https://github.com/linuxscout/arabicnlptoolslist#gazetteers)
 - [ARZ and dialectal resources (mainly for segmentation and POS)](http://alt.qcri.org/resources/da_resources/)
 
+- [Arabic Morphological analysis](https://sourceforge.net/projects/aracomlex/)
+
 ### Arabic related workshops
 - [WANLP - part of coling](https://sites.google.com/view/wanlp-2020)
 - [OSACT - part of LREC](http://edinburghnlp.inf.ed.ac.uk/workshops/OSACT4/)
