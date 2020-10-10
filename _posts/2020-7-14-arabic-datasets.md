@@ -25,6 +25,7 @@ title: A non-exhaustive list of linguistic Arabic resources online
 and [PADT](https://github.com/UniversalDependencies/UD_Arabic-PADT)
 
 - [AQMAR](https://github.com/nschneid/arabic-tagger) An arabic sequence tagger!
+and dataset http://www.cs.cmu.edu/~ark/ArabicNER/
 
 - [Multidialect BERT](https://huggingface.co/bashar-talafha/multi-dialect-bert-base-arabic)
 
