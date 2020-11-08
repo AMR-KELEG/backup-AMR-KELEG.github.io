@@ -29,5 +29,9 @@ permalink: /useful-tools/
 **Logging**:
 - `tqdm`
 
+**Development**:
+- `pip-chill`
+    - A less noisy `pip freeze`
+
 ### Packages that I want to explore more
 - `ftfy` for fixing gibberish unicode text `¸‡'âŒ£`
