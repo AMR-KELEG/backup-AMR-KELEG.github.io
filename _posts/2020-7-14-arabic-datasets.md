@@ -14,6 +14,7 @@ title: A non-exhaustive list of linguistic Arabic resources online
 | [HARD](https://github.com/elnagara/HARD-Arabic-Dataset), [paper](https://link.springer.com/chapter/10.1007/978-3-319-67056-0_3)|93700 hotel reviews in Arabic language collected from Booking.com|MSA & Dialects|2018|
 | [ASTD](https://github.com/mahmoudnabil/ASTD)| Arabic Sentiment Tweets Dataset contains over 10k Arabic sentiment tweets classified into four classes subjective positive, subjective negative, subjective mixed, and objective | NA | 2015 |
 | [LABR](https://github.com/mohamedadaly/LABR)| Large Scale Arabic Book Reviews Dataset contains over 63,000 book reviews in Arabic collected from goodreads.| NA | 2013 |
+| [CALM](http://linguistics.byu.edu/thesisdata/CALMcorpusDownload.html) ||||
 
 ## Tools
 
